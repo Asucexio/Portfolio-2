@@ -38,9 +38,6 @@ const getCookie = (name: string): string | null => {
 export default function Home() {
   const [micHover, setMicHover] = useState(false);
   const [showAISection, setShowAISection] = useState(false);
-  const [conversations, setConversations] = useState<TConversation[] | null>(
-    null
-  );
   const [showNotice, setShowNotice] = useState(false);
   const isMobile = useIsMobile();
 

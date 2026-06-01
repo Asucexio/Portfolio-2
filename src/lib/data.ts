@@ -31,10 +31,10 @@ import forth from "@/assets/projects/devjournal/forth.jpg"
 import fifth from "@/assets/projects/devjournal/fifth.jpg"
 
 //Repo mind
-import hero from "@/assets/projects/repoMind/hero.png"
-import features from "@/assets/projects/repoMind/features.png"
-import loginform from "@/assets/projects/repoMind/loginform.png"
-import maindashboard from " @/assets/projects/repoMind/maindashboard.png"
+import hero from "@/assets/projects/repomind/hero.png"
+import features from "@/assets/projects/repomind/features.png"
+import loginform from "@/assets/projects/repomind/loginform.png"
+import maindashboard from "@/assets/projects/repomind/maindashboard.png"
  
 
 
@@ -208,7 +208,6 @@ import {
   SiMongodb,
   SiRedis,
   SiGraphql,
-  SiDocker,
   SiGithubactions,
   SiGit,
   SiVercel,
@@ -218,10 +217,7 @@ import {
   SiPrettier,
   SiSupabase,
   SiNextdotjs,
-  SiBun,
-  SiHono,
   SiPrisma,
-  SiKubernetes,
 } from "react-icons/si";
 
 import { DiNodejsSmall, DiChrome, DiReact } from "react-icons/di";
